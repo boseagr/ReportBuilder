@@ -2,6 +2,7 @@
 
 require 'optparse'
 require 'report_builder'
+require 'report_builder_fix'
 
 options = { }
 

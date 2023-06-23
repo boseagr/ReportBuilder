@@ -1,1 +1,0 @@
-$('i').addClass('black-text');
